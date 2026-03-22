@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **BMM Testlabs**
 
-- 🌱 I’m currently learning ** to design and build scalable data pipelines, focusing on ETL processes, data modeling, and data quality.**
+- 🌱 I’m currently learning **to design and build scalable data pipelines, focusing on ETL processes, data modeling, and data quality.**
 
 - 👨‍💻 All of my projects are available at [[https://www.notion.so/a82fac45b2754dae90adc784df89b932](https://www.notion.so/a82fac45b2754dae90adc784df89b932)](https://github.com/jhoalejo07)
 
