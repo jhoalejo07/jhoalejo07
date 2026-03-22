@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhohan Arias</h1>
-<h3 align="center">Computer Engineer with a strong focus on databases, combining solid experience in QA testing with a deep passion for data engineering, data pipelines, and programming. Continuously building scalable data solutions while leveraging a quality-driven mindset from testing.</h3>
+<h3 align="center">Computer Engineer focused on databases, with experience in QA testing. Passionate about SQL, Python, ETL, data pipelines, and data visualization. Building scalable, reliable, and high-quality data solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhoalejo07&label=Profile%20views&color=0e75b6&style=flat" alt="jhoalejo07" /> </p>
 
