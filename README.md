@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jhohan Arias</h1>
-<h3 align="center">A passionate computer engineer, eager to learn and currently focused on QA testing, with a strong love for databases and programming.</h3>
+<h3 align="center">Computer Engineer with a strong focus on databases, combining solid experience in QA testing with a deep passion for data engineering, data pipelines, and programming. Continuously building scalable data solutions while leveraging a quality-driven mindset from testing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhoalejo07&label=Profile%20views&color=0e75b6&style=flat" alt="jhoalejo07" /> </p>
 
 - 🔭 I’m currently working on **BMM Testlabs**
 
-- 🌱 I’m currently learning **Pytest, Robot Framework, ETL testing**
+- 🌱 I’m currently learning ** to design and build scalable data pipelines, focusing on ETL processes, data modeling, and data quality.**
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/a82fac45b2754dae90adc784df89b932](https://www.notion.so/a82fac45b2754dae90adc784df89b932)
+- 👨‍💻 All of my projects are available at [[https://www.notion.so/a82fac45b2754dae90adc784df89b932](https://www.notion.so/a82fac45b2754dae90adc784df89b932)](https://github.com/jhoalejo07)
 
-- 💬 Ask me about **Oracle, PL/SQL, C#, ISQTB CTFL**
+- 💬 Ask me about **Oracle, PL/SQL, SQL Server, T-SQL, Postgres, C#, Python, Pandas, AWS Certified Cloud Practitioner, ISQTB CTFL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
